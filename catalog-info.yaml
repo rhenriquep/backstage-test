@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: rhenriquep/backstage-test
 spec:
   type: service
-  owner: rhenrique@ccmtecnologia.com.br
+  owner: DevOps 
   lifecycle: experimental
 
