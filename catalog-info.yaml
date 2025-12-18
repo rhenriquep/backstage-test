@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-app
+  description: A project to test internal developer portal
+  annotations:
+    github.com/project-slug: rhenriquep/backstage-test
+spec:
+  type: service
+  owner: rhenrique@ccmtecnologia.com.br
+  lifecycle: experimental
+
