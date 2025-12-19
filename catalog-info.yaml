@@ -5,6 +5,7 @@ metadata:
   description: A project to test internal developer portal
   annotations:
     github.com/project-slug: rhenriquep/backstage-test
+    backstage.io/techdocs-ref: dir:. 
 spec:
   type: service
   owner: DevOps 

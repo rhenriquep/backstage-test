@@ -1,0 +1,12 @@
+site_name: 'Python App'
+site_description: 'Main documentation for test Backstage integration'
+repo_url: https://github.com/rhenriquep/backstage-test
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - Python app Documentation: 'docs/index.md'
